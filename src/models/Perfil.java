@@ -1,11 +1,14 @@
 package models;
 
+import java.util.LinkedList;
+import java.util.List;
+import java.util.stream.Stream;
+
 public class Perfil {
   private List<Documento> documentos;
   private String nome;
   private String user;
   private String pwd;
-  
   
   public Perfil(String nome, String user, String pwd) {
     this(nome, user, pwd, new LinkedList<Documento>());

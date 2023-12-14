@@ -1,6 +1,8 @@
 package service;
 
+import models.Perfil;
+
 public interface Classificador {
-  public NivelPerfil nivel();
-  public Perfil getPerfil();
+  NivelPerfil nivel();
+  Perfil getPerfil();
 }

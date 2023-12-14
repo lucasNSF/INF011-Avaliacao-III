@@ -1,21 +1,28 @@
 package questao01;
 
-import models.CPF;
-import models.CartaoCredito;
-import models.Perfil;
+import models.*;
+
 
 import java.time.LocalDate;
 
-public class Questao01 {
+// Client em Builder
+public class App01 {
   public static void main(String[] args) {
     Builder perfilBuilder = new PerfilBuilder();
     
     Perfil perfil = perfilBuilder
-      .reset("Lucas")
+//      .reset("Lucas")
       .addCartaoCredito(new CartaoCredito("nubank", "000101", "123", LocalDate.now()))
-      .addCPF(new CPF("Lucas", "123.123.123-12"))
-      .build();
+      .addRG(new RG(
+        "Lucas",
+        "20152019-26",
+        "SSP/BA",
+        LocalDate.of(2025, 12, 12))
+      )
+      .addEmail(new Email("lucas123@gmail.com"))
+      .build("Lucas");
     
     System.out.println(perfil);
+    perfil.documentos().forEach(System.out::println);
   }
 }

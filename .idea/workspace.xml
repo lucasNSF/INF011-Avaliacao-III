@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="054f1dac-23d0-42ca-a7e5-d9dbf5a0930e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/CPF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/CPF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/CartaoCredito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/CartaoCredito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Documento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Documento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Perfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Perfil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/RG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/RG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questao01/App01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questao01/App01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questao01/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questao01/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questao01/PerfilBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questao01/PerfilBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questao02/BaseDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questao02/BaseDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questao02/DiasAteValidadeRG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questao02/DiasAteValidadeRG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questao03/ValidadorPerfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/questao03/ValidadorPerfil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/Classificador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/Classificador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ClassificadorPerfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ClassificadorPerfil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/NivelPerfil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/NivelPerfil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ZT553FzMnHoZ32CH6vaWfNIaq9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.toDoOptions"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="App01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questao01.App01" />
+      <module name="INF011-Avaliacao-III" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questao01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="054f1dac-23d0-42ca-a7e5-d9dbf5a0930e" name="Changes" comment="" />
+      <created>1685366495665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685366495665</updated>
+    </task>
+    <servers />
+  </component>
+</project>
